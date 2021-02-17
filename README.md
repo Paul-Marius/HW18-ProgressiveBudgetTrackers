@@ -8,13 +8,14 @@ ___
 * [Test](#Test)
 * [License](#License)
 * [Questions](#Questions)
+* [Screenshots](#Screenshots)
 ___
 
 ### Description
 - 
 
 ### Installation
-- 
+- After the Questions paragraph you can find a set of screenshots
 
 ### Usage
 - After you installing the dependencies the application can be run `node server.js`
@@ -33,3 +34,9 @@ ___
 ### Questions
 - If you have any questions, feel free to reach at:[besliu_marius@yahoo.com](mailto:besliu_marius@yahoo.com) 
 - For more information, visit my [Github Profile](https://github.com/Paul-Marius)
+
+### Screenshots
+![Optional Text](./public/images/Run-the-app.png)
+![Optional Text](./public/images/Start-the-app.png)
+![Optional Text](./public/images/Add-funds-graph-bar.png)
+![Optional Text](./public/images/Subtract-funds-graph-bar.png)
